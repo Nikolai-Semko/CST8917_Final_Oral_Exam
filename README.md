@@ -1,4 +1,4 @@
-## 📹 Demo Video
+## 📹 Video Link
 
-**YouTube:**: [Video prezentation](https://youtu.be/hfraqlzTjyE)
+**YouTube:**: [Video presentation](https://youtu.be/hfraqlzTjyE)
 
